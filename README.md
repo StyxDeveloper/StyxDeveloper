@@ -1,7 +1,6 @@
-<h1 align="center">I Am JJ</h1>
-<h3 align="center">Former Owner And Developer Of Jupiter </h3>
-
+<h1 align="center">I Am Styx Also Known As John</h1>
+<h3 align="center">Luau and Lua 5.1 Developer </h3>
 <p align="center">
-About Me
+Who Am I?
 <p align="center">
-I am a Luau and Lua 5.1 developer, I was formerly known as JJSploitOnTop. I was known for working in projects such as Jupiter/Styx. I am no longer apart of Jupiter or working with Roblox in general. 
+I am Styx/John but you can call me John or JJ.
