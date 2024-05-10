@@ -11,6 +11,6 @@
 <h3 align="center">How to contact me?</h3>
 
 <p align="center">
-  While Im still hard to contact, and still am struggling to find a method that best suits not just me but the users; I'll be focussing on this aspect soon. 
+  Looking to contact me, join Jupiter's Discord Server and get the latest information on production. https://discord.gg/MstqrY6gtq
 
   ### So long 👋
